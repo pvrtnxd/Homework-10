@@ -2,13 +2,16 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("Задание 1");
         printLP(2022);
         printLP(2021);
 
+
         System.out.println("Задание 2");
         Info(1,2022);
         Info(0,2020);
+
 
         System.out.println("Задание 3");
         delivery(10);
